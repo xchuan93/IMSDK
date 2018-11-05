@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "Ono",
+      "hash" : "eda190af6cef259189da53ab8c9ce7388220f11a2ae1798dd417c11ef1bca6a0"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.4.0",
+  "iOS" : [
+    {
+      "name" : "Ono",
+      "hash" : "a8da89facdec823f41c5ee4178812a24cf216f9632225cf53f54c2c2e77533f0"
+    }
+  ]
+}

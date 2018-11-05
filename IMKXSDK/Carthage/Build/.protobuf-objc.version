@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "ProtocolBuffers",
+      "hash" : "ee5622472e35ce97e1ed9cd84dc931276a958ab6cae5a143e1d32472b55d593d"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.9.14",
+  "iOS" : [
+    {
+      "name" : "ProtocolBuffers",
+      "hash" : "6708c5d43aea86c080d490abd57d5bba06f4861e44f887325f278d4bd8c8c619"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "commitish" : "93.1.1",
+  "iOS" : [
+    {
+      "name" : "WireDataModel",
+      "hash" : "4b3a600672cbefc8f87a1e5fe8c9b4209e44bee18ecfb9f34b30b3a7cd4dc6d2"
+    }
+  ]
+}

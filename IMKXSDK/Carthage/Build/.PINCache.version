@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.3-swift3.1",
+  "iOS" : [
+    {
+      "name" : "PINCache",
+      "hash" : "3c5df7700d91d13edb4b5922785e5c2e78f14212b40d06cb9c67ed6932bd2361"
+    }
+  ]
+}

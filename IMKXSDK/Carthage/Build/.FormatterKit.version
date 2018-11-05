@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.8.1-swift3.0.2",
+  "iOS" : [
+    {
+      "name" : "FormatterKit",
+      "hash" : "70c8efd50eadc6c75891cd7de31e7981f248dae9abfbf24b787b59d19046458e"
+    }
+  ]
+}

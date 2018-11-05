@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.9.2-swift3.1",
+  "iOS" : [
+    {
+      "name" : "libPhoneNumberiOS",
+      "hash" : "bdf7a2c134e6d68b4c7eb0bc7c3056b1dab6b6a14192d3cfe00d00a2ca1a13f0"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.6.3-iOS8",
+  "iOS" : [
+    {
+      "name" : "AFNetworking",
+      "hash" : "8a30886ac4fca42cf73cadd366e5e559b965d7c92cd222b5c874549625cf958c"
+    }
+  ]
+}

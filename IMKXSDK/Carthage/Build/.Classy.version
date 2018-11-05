@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v0.2.6-swift3.0.2",
+  "iOS" : [
+    {
+      "name" : "Classy",
+      "hash" : "6bba4309e6858fbe488559152c7b743d02377eb2d094d41da6078ba07cc95227"
+    }
+  ]
+}

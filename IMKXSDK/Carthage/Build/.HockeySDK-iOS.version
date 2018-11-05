@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "5.0.0",
+  "iOS" : [
+    {
+      "name" : "HockeySDK",
+      "hash" : "a878488302326e22f8186b3a068517b65fcbc007c87410b549f72bff63dc590e"
+    }
+  ]
+}

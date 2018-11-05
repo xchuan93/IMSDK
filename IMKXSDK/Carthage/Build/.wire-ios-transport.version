@@ -1,0 +1,9 @@
+{
+  "commitish" : "34.0.2",
+  "iOS" : [
+    {
+      "name" : "WireTransport",
+      "hash" : "f8ca903b22c34bc201941ab1c5dba72687ee0ddcdc563b7c0a7c3e5b1eda1f2c"
+    }
+  ]
+}

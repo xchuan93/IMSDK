@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "PureLayout",
+      "hash" : "1efa1cfb98f634a9f6fa359529a9aa2d75b48f5ef5345895785117e578b4d9a1"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v3.0.0",
+  "iOS" : [
+    {
+      "name" : "PureLayout",
+      "hash" : "69876e53c8c778dc553c9b343055c7f637e4de35fbb2a8f0a0da387e4bf98a22"
+    }
+  ]
+}

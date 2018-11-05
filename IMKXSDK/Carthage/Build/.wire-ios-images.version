@@ -1,0 +1,9 @@
+{
+  "commitish" : "14.0.0",
+  "iOS" : [
+    {
+      "name" : "WireImages",
+      "hash" : "5cbac0f204a4a34a517b34c5f214f1ffee9b71d44c4e22bb055834cb86b4a788"
+    }
+  ]
+}

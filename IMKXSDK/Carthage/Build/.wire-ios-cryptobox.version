@@ -1,0 +1,9 @@
+{
+  "commitish" : "11.0.1",
+  "iOS" : [
+    {
+      "name" : "WireCryptobox",
+      "hash" : "ff8bab9a7f0a5227eff35919fdd8fc81fb10e3685dc45712bbea3269cddfbe7c"
+    }
+  ]
+}

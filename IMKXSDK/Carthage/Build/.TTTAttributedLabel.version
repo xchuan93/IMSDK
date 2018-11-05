@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.0.0-swift3.0.2",
+  "iOS" : [
+    {
+      "name" : "TTTAttributedLabel",
+      "hash" : "d8a3b01f35c97b09535d80fa482677d3b3b3ed4092260f2931bb14842dbeed00"
+    }
+  ]
+}

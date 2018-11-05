@@ -1,0 +1,9 @@
+{
+  "commitish" : "20.2.0",
+  "iOS" : [
+    {
+      "name" : "WireUtilities",
+      "hash" : "19735235fd2121f377080b1f81cd035994d9f68919e6fe6756b19f8084ee3f42"
+    }
+  ]
+}

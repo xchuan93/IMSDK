@@ -1,0 +1,9 @@
+{
+  "commitish" : "77.0.0",
+  "iOS" : [
+    {
+      "name" : "WireRequestStrategy",
+      "hash" : "608ad50803f41fa2792ac7706257e581f7275a458414d1adc79946607b71b6b4"
+    }
+  ]
+}

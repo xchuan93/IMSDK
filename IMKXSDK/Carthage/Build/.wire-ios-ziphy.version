@@ -1,0 +1,9 @@
+{
+  "commitish" : "7.0.1",
+  "iOS" : [
+    {
+      "name" : "ziphy",
+      "hash" : "67af8af1956b037ed0e25e3bd9b202ff34a4e54d7c55ae77f35d58b680c2c768"
+    }
+  ]
+}

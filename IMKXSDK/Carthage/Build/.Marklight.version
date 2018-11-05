@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.9",
+  "iOS" : [
+    {
+      "name" : "Marklight",
+      "hash" : "fc99f73856a5fccdf7b6cfdb75b8daa52df7ef7b6561e357c4f2afdea25f36b7"
+    }
+  ]
+}

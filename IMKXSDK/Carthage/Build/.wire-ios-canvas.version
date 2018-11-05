@@ -1,0 +1,9 @@
+{
+  "commitish" : "5.0.2",
+  "iOS" : [
+    {
+      "name" : "WireCanvas",
+      "hash" : "6d2c414123a18cb156aaa1aa219ddd3cab9ef947d94c8ec325f72b98e8eaa14f"
+    }
+  ]
+}

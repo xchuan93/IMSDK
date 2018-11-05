@@ -1,0 +1,9 @@
+{
+  "commitish" : "v2.0.8",
+  "iOS" : [
+    {
+      "name" : "ZipArchive",
+      "hash" : "9f2b69cc9238c1890562e3026c7633d7538fbab055f305a7d18b5954eefbdf1d"
+    }
+  ]
+}

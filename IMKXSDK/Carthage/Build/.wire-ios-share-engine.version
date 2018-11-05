@@ -1,0 +1,9 @@
+{
+  "commitish" : "66.0.0",
+  "iOS" : [
+    {
+      "name" : "WireShareEngine",
+      "hash" : "9fc8ca631235d26e02c5cd7dead9bc1c58acf99f82fccd2ad77dbe4955a495a3"
+    }
+  ]
+}

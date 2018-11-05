@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+    {
+      "name" : "OCMock",
+      "hash" : "d5ce5f5883fc08fb89212f5fff1eda032d92f7cafb2f854d128a245d7fec65b7"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "OCMock",
+      "hash" : "69fa7f569b962b76b305c2a43b24eaf82ae67d293a7c1bddf5d159f0b5ca8423"
+    }
+  ],
+  "commitish" : "v3.4",
+  "iOS" : [
+    {
+      "name" : "OCMock",
+      "hash" : "b36d8c07bdb2e06bea7aca99b55d2ef92d6e6db78922a065078e370b7c043d0a"
+    }
+  ]
+}

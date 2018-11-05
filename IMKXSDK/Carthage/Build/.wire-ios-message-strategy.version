@@ -1,0 +1,9 @@
+{
+  "commitish" : "79.0.0",
+  "iOS" : [
+    {
+      "name" : "WireMessageStrategy",
+      "hash" : "f4d7bc7a7d967811644a83d73df30447202ae236a284ceea9a7603e6ae36f006"
+    }
+  ]
+}

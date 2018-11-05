@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "4.1.131",
+  "iOS" : [
+    {
+      "name" : "avs",
+      "hash" : "babb1e8e1b6c0f939d432199bb1daa5367d26e5216ab10c23765ea31352ee5dd"
+    }
+  ]
+}

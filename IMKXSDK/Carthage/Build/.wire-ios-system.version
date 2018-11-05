@@ -1,0 +1,9 @@
+{
+  "commitish" : "19.1.0",
+  "iOS" : [
+    {
+      "name" : "WireSystem",
+      "hash" : "93b6279c6e332b01d36c8522c6c5790f559389db942fe5858d7a6c94455a81d9"
+    }
+  ]
+}

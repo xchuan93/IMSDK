@@ -1,0 +1,9 @@
+{
+  "commitish" : "148.1.3",
+  "iOS" : [
+    {
+      "name" : "WireSyncEngine",
+      "hash" : "0772077cd82114133a3fd0d355bc0eb285bb9ed582bfcdb6cf4c255e1e14182c"
+    }
+  ]
+}

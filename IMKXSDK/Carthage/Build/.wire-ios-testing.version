@@ -1,0 +1,9 @@
+{
+  "commitish" : "13.0.1",
+  "iOS" : [
+    {
+      "name" : "WireTesting",
+      "hash" : "7d418288b6cd669251bc6b7d5e2616b9221a28b2593d7df0e1a3130adf76ccf3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "13.0.0",
+  "iOS" : [
+    {
+      "name" : "WireProtos",
+      "hash" : "c458f3aaf5a4f0f5c32a046fb7d81a20807b708813993727b9bde10c3c5e9b27"
+    }
+  ]
+}

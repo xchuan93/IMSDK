@@ -1,0 +1,9 @@
+{
+  "commitish" : "7.0.1",
+  "iOS" : [
+    {
+      "name" : "WireLinkPreview",
+      "hash" : "0f01f0bb730cff490f09fad741f8999625339bccb61e81d3af6eb8445f44230b"
+    }
+  ]
+}
